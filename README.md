@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Web Developer
 ----------------------
 
-I started learning web programming languages three years ago. After gaining a solid foundation in HTML, CSS, and JavaScript, I began practicing through group projects at university. Subsequently, I delved into various JavaScript frameworks for frontend web development, such as ReactJS and Svelte. Additionally, I explored backend technologies like Node.js and Spring Boot with the goal of becoming a full-stack developer in the future.
+I started learning web programming languages three years ago. After gaining a solid foundation in HTML, CSS, and JavaScript, I began practicing through group projects at university. Subsequently, I delved into various JavaScript frameworks for frontend web development, such as ReactJS. Additionally, I explored backend technologies like Node.js and Spring Boot with the goal of becoming a full-stack developer in the future.
 
 * 🌍  I'm based in Ha Noi
 * ✉️  You can contact me at [haikhanhtruong@gmail.com](mailto:haikhanhtruong@gmail.com)
